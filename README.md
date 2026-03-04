@@ -1,5 +1,7 @@
 # Santiago Rosales
 
+![banner](./assets/banner.svg)
+
 <p align="center">
   <strong>Software Development Student</strong> · Full-Stack Development · Automation · Business-Focused Software
 </p>
