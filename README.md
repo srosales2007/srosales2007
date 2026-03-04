@@ -137,15 +137,6 @@ I'm building a profile that reflects:
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srosales2007&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srosales2007&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
 ## Contact
 
 * LinkedIn: https://www.linkedin.com/in/santiago-rosales-arceyut-08b748346/
