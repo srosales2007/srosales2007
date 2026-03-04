@@ -1,3 +1,4 @@
+
 # Santiago Rosales
 
 ![banner](./assets/banner.svg)
@@ -45,17 +46,36 @@ What I try to bring into every project:
 
 ## Tech Stack
 
-**Languages**  
-Java · JavaScript · TypeScript · Python
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
+</p>
 
-**Frontend**  
-React · Next.js · Tailwind CSS
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+</p>
 
-**Backend / Data**  
-Node.js · Spring Boot · PostgreSQL · MySQL
+### Backend / Data
+<p>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E" />
+  <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=6DB33F" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+</p>
 
-**Tools**  
-Git · GitHub · Figma · VS Code
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E" />
+  <img src="https://img.shields.io/badge/VS_Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+</p>
 
 ---
 
@@ -105,4 +125,3 @@ I'm building a profile that reflects:
 ---
 
 > I want my GitHub to show more than activity — I want it to show that I can build, improve, and present my work professionally.
-
